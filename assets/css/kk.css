@@ -1,0 +1,13 @@
+.archi ul {
+    margin-left: 30px;
+}
+
+.kk {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nine {
+    padding-top: 30px;
+}
