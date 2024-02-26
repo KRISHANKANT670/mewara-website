@@ -1531,7 +1531,7 @@ section {
 
 #footer .footer-newsletter form {
     margin-top: 30px;
-    background: #fff;
+    background: #3b3b3b;
     padding: 6px 10px;
     position: relative;
     border-radius: 50px;
@@ -1541,8 +1541,9 @@ section {
 
 #footer .footer-newsletter form input[type=email] {
     border: 0;
-    padding: 4px 8px;
+    /* padding: 4px 8px; */
     width: calc(100% - 100px);
+    background-color: #3b3b3b;
 }
 
 #footer .footer-newsletter form input[type=submit] {
